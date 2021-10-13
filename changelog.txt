@@ -1,5 +1,9 @@
 Version 1.3.4
 
++ Just removed index template page
+
+Version 1.3.4
+
 + Go open source
 
 Version 1.3.3
