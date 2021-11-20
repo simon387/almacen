@@ -1,5 +1,5 @@
 <?php
-$f = fopen("changelog.txt", 'r');
+$f = fopen("../../changelog.txt", 'r');
 $version = fgets($f);
 fclose($f);
 ?>
