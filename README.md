@@ -49,7 +49,6 @@ class Config
 
 ### release process:
 + update ```changelog.txt```
-+ update ```footer.php```
 + update the db, if needed
 
 ## Links
