@@ -31,10 +31,10 @@ mariadb / mysql
 
 class Config
 {
-	static $host = '172.17.0.2';
+	static $db_host = '172.17.0.2';
 	static $db_name = 'almacen';
-	static $username  = 'root';
-	static $password  = 'root';
+	static $db_username  = 'root';
+	static $db_password  = 'root';
 	static $db_statement_0 = '';
 }
 ```
