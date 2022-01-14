@@ -35,6 +35,7 @@ class Config
 	static $db_name = 'almacen';
 	static $username  = 'root';
 	static $password  = 'root';
+	static $db_statement_0 = '';
 }
 ```
 ### Database's diagram
