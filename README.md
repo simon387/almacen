@@ -1,4 +1,5 @@
 # Almacen
+**www.grenyaobrador.es got an evolved version, see its repo at https://github.com/simon387/grenyaobrador.es**
 + Home page: http://localhost/almacen/fe/index.php
 + Rest API with PHP, experimental.
 + Client, simple HTML web template with bootstrap.
