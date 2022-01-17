@@ -279,7 +279,6 @@ $("#btn-new-page-confirm").on("click", function () {
 		url: rest + "period/create.php",
 		success: function () {
 			location.reload();
-			unblockScreen();
 		},
 	});
 });

@@ -80,7 +80,6 @@ function addNewSupplier() {
 		}),
 		success: function () {
 			location.reload();
-			unblockScreen();
 		},
 	});
 }
